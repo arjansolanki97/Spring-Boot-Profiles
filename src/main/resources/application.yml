@@ -1,3 +1,9 @@
 spring:
   profiles:
     active: sunny
+
+
+
+  output:
+    ansi:
+      enabled: always
